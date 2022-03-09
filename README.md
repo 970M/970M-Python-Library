@@ -6,7 +6,7 @@ Librairie python personnelle.
 
 **Files E/S :** gd_ioFilesLib.py
 
--   Ouverture diverses de fichiers .csv
+-   Ouvertures diverses de fichiers .csv
 
 **Listes :** gd_listLib.py
 
